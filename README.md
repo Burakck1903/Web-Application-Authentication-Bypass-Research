@@ -2,7 +2,7 @@
 
 **Target:** Yemeksepeti (Web Platform)  
 **Vulnerability Type:** Business Logic Error / Improper Error Handling  
-**Date of Discovery:** [Bulduğun Tarih, örn: 2024]  
+**Date of Discovery:**  August 2024
 **Researcher:** Burak Çetinkaya
 
 ## 🚨 Executive Summary
